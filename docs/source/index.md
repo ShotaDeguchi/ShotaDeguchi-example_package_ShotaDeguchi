@@ -17,11 +17,7 @@ documentation for details.
 
 -->
 
-# example_package_ShotaDeguchi documentation
-
-This is a test text.
-
-## Welcome to example_package_ShotaDeguchi's documentation!
+# Welcome to example_package_ShotaDeguchi's documentation!
 
 ## Contents
 ```{toctree}
