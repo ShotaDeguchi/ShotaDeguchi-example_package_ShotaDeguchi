@@ -21,7 +21,7 @@ sys.path.insert(0, str(SRC_DIR))
 project = 'example_package_ShotaDeguchi'
 copyright = '2026, Shota Deguchi'
 author = 'Shota Deguchi'
-release = '0.0.2'
+release = '0.0.3'
 
 
 # -- General configuration ---------------------------------------------------
